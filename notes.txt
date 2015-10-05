@@ -1,0 +1,11 @@
+RANKINGS
+--------
+TIED
+1. Inchworm. Inchworm is the evolution of Millipede.
+1. Plant. Plant was an artificially-created gene made to split as much as possible. As a result it doesn't claim much territory, but it keeps its territory ery well.
+2. Millipede. Millipede is so named because of the cells' tendency to form rows spaced apart by one (like '0 0 0 0 0') that crawl forward all together. Why this is advantageous I do not know, probably because it allows cells to pack together closely, and move together, without bumping into each other.
+3. Quick-Iter. I don't actually know what this strategy is other than just "Chaos". It's called quick-iter because it was made by cycling very fast.
+4. Walls-Down-Offspring. The genetic offspring of the Walls and Down strategy.
+5. Passive. Passive doesn't grow much except when attacked; when it is attacked it grows very fast and moves away. this makes it very good at survival, but not very good at winning.
+6. Walls. Also a chaotic strategy like Quick-Iter, but weaker.
+7. Diagonal-Strands. The weakest growing strategy in existence. Makes diagonal strands and ships them across the board.
